@@ -41,8 +41,8 @@ This repository contains the end-to-end MLOps implementation for Innovate Analyt
 ### Installation
 1. Clone the repository:
 ```bash
-git clone [repository-url]
-cd [repository-name]
+git clone [https://github.com/maheera1/mlops-project]
+cd [mlops_project]
 ```
 
 2. Create and activate a virtual environment:
@@ -96,6 +96,3 @@ The project uses GitHub Actions for CI and Jenkins for CD. The pipeline includes
 3. Commit your changes
 4. Push to the branch
 5. Create a Pull Request
-
-## License
-This project is licensed under the MIT License - see the LICENSE file for details. 
